@@ -1,0 +1,10 @@
+@media screen and (min-width: 480px) {
+    .nav-banner {
+        height: 20vh;
+        width: 100vw;
+    }
+    .banner-img{
+        height: 100%;
+        width: 100%;
+    }
+}
