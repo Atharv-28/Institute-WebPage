@@ -1,9 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mid-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5vw;
+}
+.footer{
+    color: white;
+    height: 30vh;
+    width: 100vw;
+    position: 
+    bottom: 0;
+    background-color: rgb(30, 30, 30);
+}
 @media screen and (min-width: 480px) {
     .nav-banner {
         height: 20vh;
         width: 100vw;
     }
     .banner-img{
+        height: 100%;
+        width: 100%;
+    }
+    .mid-content{
+
+    }
+    .mid-cont-icons{
+        height: 8vw;
+        width: 8vw;
+    }
+    .mid-ico-im{
         height: 100%;
         width: 100%;
     }
